@@ -3,7 +3,8 @@
 适用于Linux环境
 ## 使用方法
 ```shell
-cd webbench/webbench-1.5/
+cd webbench/webbench/webbench-1.5/
+chmod +x webbench
 ./webbench -c 1000 -t 100 url
 ```
 ```shell
